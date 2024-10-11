@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/27 19:44:47.000.515,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/27 19:45:03.000.406,D:\99Coders\Posts\273 - Implementando a busca de CEP em seus apps -----\Fontes\UnitPrincipal.pas=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/27 19:45:03.000.406,D:\99Coders\Posts\273 - Implementando a busca de CEP em seus apps -----\Fontes\UnitPrincipal.fmx=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/09/27 19:45:05.000.770,D:\99Coders\Posts\273 - Implementando a busca de CEP em seus apps -----\Fontes\CEP.dproj=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/09/27 20:13:15.000.645,=D:\99Coders\Posts\273 - Implementando a busca de CEP em seus apps -----\Fontes\uFormat.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacMini iOSSimulator="iPhone5"/>
+		<NoProfile Android="" iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
